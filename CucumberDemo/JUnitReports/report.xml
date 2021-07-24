@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="5" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="5" time="0.182">
+<testcase classname="Feature to demo tags" name="Sample 1" time="0.076">
+<failure message="The scenario has no steps" type="java.lang.Exception"/>
+</testcase>
+<testcase classname="Feature to demo tags" name="Sample 2" time="0.011">
+<failure message="The scenario has no steps" type="java.lang.Exception"/>
+</testcase>
+<testcase classname="Feature to demo tags" name="Sample 3" time="0.004">
+<failure message="The scenario has no steps" type="java.lang.Exception"/>
+</testcase>
+<testcase classname="Feature to demo tags" name="Sample 4" time="0.011">
+<failure message="The scenario has no steps" type="java.lang.Exception"/>
+</testcase>
+<testcase classname="Feature to demo tags" name="Sample 5" time="0.008">
+<failure message="The scenario has no steps" type="java.lang.Exception"/>
+</testcase>
+</testsuite>
